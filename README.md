@@ -2,8 +2,6 @@
 
 Bem-vindo ao Simulador de Mercado Financeiro! Este projeto permite que você simule operações de compra e venda de ações em um ambiente controlado, gerenciando seu portfólio de investimentos e acompanhando as flutuações do mercado.
 
-![Simulador de Mercado Financeiro](https://via.placeholder.com/800x400?text=Screenshot+do+Simulador)
-
 ## Recursos Principais
 
 - 💼 Interface interativa com menu fácil de usar
