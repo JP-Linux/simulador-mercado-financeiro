@@ -82,13 +82,13 @@ SavoryFields    R$242.66         73
 ```
 
 ## Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
 
 ## Contato
 **Jorge Paulo Santos**  
-Email: [jorgepsan7@gmail.com](mailto:jorgepsan7@gmail.com)  
-GitHub: [https://github.com/JP-Linux](https://github.com/JP-Linux)  
-LinkedIn: [https://www.linkedin.com/in/jorgepaulo-santos](https://www.linkedin.com/in/jorgepaulo-santos)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JP-Linux)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgepsan7@gmail.com)
+
 
 ---
 **Nota**: Este projeto foi desenvolvido para fins educacionais e de simulação. Não representa um sistema real de negociação financeira.
